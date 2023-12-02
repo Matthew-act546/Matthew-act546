@@ -19,8 +19,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - 🎮 *Playing online games like League of Legends and Valorant* <br>
 
 ### Skills
-<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40>
-<img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
+<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
 <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40>
 <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40>
 <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40>
