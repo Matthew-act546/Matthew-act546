@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Matthew
 
-I'm **self-taught programmer** since 2020, My goals is to become a **Full Stack Web Developer**. Using **Github**, I gonna show you how **consistent** i am in terms of my learning to become a **Full Stack Web Developer**. 
+I'm **a self-taught programmer** since 2020, My goal is to become a **Full Stack Web Developer**. Using **Github**, I going to show you how **consistent** I am in terms of my learning to become a **Full Stack Web Developer**. 
 
-To Track my learnings im gonna post/commit some projects coding here in my github account.
+To Track my learnings I'm going to post/commit some projects coding here in my GitHub account.
 
 ### 💬 INFORMATION
 **Name:** Matthew David Fernandez <br>
@@ -16,11 +16,10 @@ To Track my learnings im gonna post/commit some projects coding here in my githu
 ### ❤️ HOBBY
 - 👨🏽‍💻 *Learning programming concepts and it/web related* <br>
 - ♟️ *Playing chess* <br>
-- 🎮 *Playing online games like league of legends and valorant* <br>
+- 🎮 *Playing online games like League of Legends and Valorant* <br>
 
 ### Skills
-<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40>
-<img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
+<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
 <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40>
 <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40>
 <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40>
@@ -36,9 +35,9 @@ To Track my learnings im gonna post/commit some projects coding here in my githu
 - *JAVA*
 
 #### REFERENCES:
-***Python, Matplotlib, and Django*** - I learn it through reading a book and doing exercises of python crash course 2nd edition by Eric Matthes and watches some youtube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
+***Python, Matplotlib, and Django*** - I learned them through reading a book and doing exercises in Python crash course 2nd edition by Eric Matthes and watching some YouTube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
 
-***JAVA*** - This is mycomputer programming subject in grade 11 senior high school
+***JAVA*** - This is my computer programming subject in grade 11 senior high school.
 
 ![htmlCertification](certifications/HTML.jpg)
 ![cssCertification](certifications/CSS.jpg)
@@ -46,9 +45,9 @@ To Track my learnings im gonna post/commit some projects coding here in my githu
 
 ### 🌱 I’m currently learning ...
 - *Bootstrap 5*
-- *Sass (Syntatically Awesome Style Stylesheets)*
+- *Sass (Syntactically Awesome Style Stylesheets)*
 - *Algorithm & Data Structure*
-- *In depth of github(Version control system)*
+- *In-depth of GitHub(Version control system)*
 
 ### 📫 How to reach me: ...
 - [Facebook](https://web.facebook.com/Matthew.act546)
