@@ -35,7 +35,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 ***JAVA*** - This is our computer programming subject in grade 11 senior high school.
 
 <img src="certifications/HTML.jpg" width="49%" alt="htmlCertification"> <img src="certifications/CSS.jpg" width="49%" alt="cssCertification">
-<img src="certifications/JAVASCRIPT.jpg" alt="javascriptCertification">
+<img src="certifications/JAVASCRIPT.jpg" width="49%" alt="javascriptCertification">
 
 ### 🌱 I’m currently learning ...
 - *Bootstrap 5*
