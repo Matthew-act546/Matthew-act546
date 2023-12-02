@@ -19,7 +19,8 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - 🎮 *Playing online games like League of Legends and Valorant* <br>
 
 ### Skills
-<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
+<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40>
+<img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
 <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40>
 <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40>
 <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40>
@@ -37,7 +38,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 #### REFERENCES:
 ***Python, Matplotlib, and Django*** - I learned them through reading a book and doing exercises in Python crash course 2nd edition by Eric Matthes and watching some YouTube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
 
-***JAVA*** - This is my computer programming subject in grade 11 senior high school.
+***JAVA*** - This is our computer programming subject in grade 11 senior high school.
 
 ![htmlCertification](certifications/HTML.jpg)
 ![cssCertification](certifications/CSS.jpg)
