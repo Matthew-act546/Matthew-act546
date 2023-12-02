@@ -15,7 +15,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 ### ❤️ HOBBY
 - 👨🏽‍💻 *Learning programming concepts and it/web related* <br>
-- ♟️ *Playing chess* <br>
+- ♟️ *Playing Chess* <br>
 - 🎮 *Playing online games like League of Legends and Valorant* <br>
 
 ### Skills
