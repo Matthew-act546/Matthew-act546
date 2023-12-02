@@ -34,9 +34,8 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 ***JAVA*** - This is our computer programming subject in grade 11 senior high school.
 
-![htmlCertification](certifications/HTML.jpg)
-![cssCertification](certifications/CSS.jpg)
-![cssCertification](certifications/JAVASCRIPT.jpg)
+<img src="certifications/HTML.jpg" width="49%" alt="htmlCertification"> <img src="certifications/CSS.jpg" width="49%" alt="cssCertification">
+<img src="certifications/JAVASCRIPT.jpg" alt="javascriptCertification">
 
 ### 🌱 I’m currently learning ...
 - *Bootstrap 5*
@@ -44,6 +43,6 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - *Algorithm & Data Structure*
 - *In-depth of GitHub(Version control system)*
 
-### 📫 How to reach me: ...
-- [Facebook](https://web.facebook.com/Matthew.act546)
-- [Discord](https://discord.com/users/1028176822485139517)
+### 📫 How to reach me: 
+- Using [Facebook](https://web.facebook.com/Matthew.act546)
+- Using [Discord](https://discord.com/users/1028176822485139517)
