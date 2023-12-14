@@ -43,7 +43,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 <img src="certifications/HTML.jpg" width="49%" alt="htmlCertification"> <img src="certifications/CSS.jpg" width="49%" alt="cssCertification">
 <img src="certifications/JAVASCRIPT.jpg" width="49%" alt="javascriptCertification">
 
-### 🌱 I’m currently learning ...
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
 - *Bootstrap 5*
 - *Sass (Syntactically Awesome Style Stylesheets)*
 - *Algorithm & Data Structure*
