@@ -21,7 +21,9 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 ### STATS
 [![Matthew GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-act546&hide=issues,contribs&show_icons=true&theme=cobalt)](https://github.com/Matthew-act546/)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=pie)](https://github.com/Matthew-act546/)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=compact)](https://github.com/Matthew-act546/)
+
+[![My stats](https://github-readme-stats.vercel.app/api/wakatime?username=Matthew-act546)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 <img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40> <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right: 10px" src="png/matplotlib.png" alt="MATPLOTLIB" height="48" width=48> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40>
