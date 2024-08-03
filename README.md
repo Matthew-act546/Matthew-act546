@@ -4,7 +4,7 @@ I'm **a self-taught programmer** since 2020, My goal is to become a **Full Stack
 
 To Track my learnings I'm going to post/commit some projects coding here in my GitHub account.
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+INFORMATION)](https://git.io/typing-svg)
+### [![INFORMATION](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+INFORMATION)](https://git.io/typing-svg)
 **Name:** Matthew David Fernandez <br>
 **Age:** 18 yrs old <br>
 **Birthday:** April 28 2006 <br>
@@ -13,17 +13,18 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 **College Year:** 1st Year <br>
 **Course:** BSCS/ComSci (Bachelor of Science in Computer Science) <br>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+HOBBY)](https://git.io/typing-svg)
+### [![Hobbies](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+HOBBY)](https://git.io/typing-svg)
 - 👨🏽‍💻 *Learning programming concepts and it/web related* <br>
 - ♟️ *Playing Chess* <br>
 - 🎮 *Playing online games like League of Legends and Valorant* <br>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=+%F0%9F%93%88+STATS)](https://git.io/typing-svg)
+### [![STATS](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=+%F0%9F%93%88+STATS)](https://git.io/typing-svg)
 [![Matthew GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-act546&hide=issues,contribs&show_icons=true&theme=cobalt)](https://github.com/Matthew-act546/)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=compact)](https://github.com/Matthew-act546/)
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
-<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40> <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40>
+### [![SKILLS](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
+<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
+<img style="padding-right: 10px" src="png/sass.png" alt="DJANGO" width=60 height="50"> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40> <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40>
 
 - *HTML*
 - *CSS*
@@ -51,14 +52,14 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 ***SCSS, BOOTSTRAP5, DOM, JSX*** - I watch tutorial videos from net ninja and freecodecamp.org. Lately ive been really focusing on the frontend development i do some projects here and sooner i will post it in here in my github.
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
+### [![CURRENTLY LEARNING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
 - *React js*
 - *ASYNC js*
 - *FIGMA*
 - *Reading Computer problems in python by david kopec*
 - *Solving leetcode problems*
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=🧐+INTERESTED+IN)](https://git.io/typing-svg)
+### [![INTERESTING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=🧐+INTERESTED+IN)](https://git.io/typing-svg)
 
 - Full Stack Development
 - Relational and Non-Realational databases like mySQL and MongoDB
@@ -66,7 +67,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - AI (Artificial intelligence, openAi library python)
 - Machine Learning 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me%3A+)](https://git.io/typing-svg)
+### [![SOCIAL MEDIA](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me%3A+)](https://git.io/typing-svg)
 - [Facebook](https://web.facebook.com/Matthew.act546)
 - [Discord](https://discord.com/users/1028176822485139517)
 - Gmail: **matthewyt765@gmail.com**
