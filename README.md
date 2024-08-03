@@ -12,6 +12,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 **City:** Muntinlupa City <br>
 **College Year:** 1st Year <br>
 **Course:** BSCS/ComSci (Bachelor of Science in Computer Science) <br>
+**College:** Pamantasan lungsod ng muntinlupa (PLMUN) <br>
 
 ### [![Hobbies](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%E2%9D%A4%EF%B8%8F+HOBBY)](https://git.io/typing-svg)
 - 👨🏽‍💻 *Learning programming concepts and it/web related* <br>
@@ -23,8 +24,9 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=compact)](https://github.com/Matthew-act546/)
 ### [![SKILLS](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
-<img style="padding-right: 10px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right: 10px" src="png/css3.png" alt="CSS3" width=40>
-<img style="padding-right: 10px" src="png/sass.png" alt="DJANGO" width=60 height="50"> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40> <img style="padding-right: 10px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right: 10px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right: 10px" src="png/java.png" alt="JAVA" width=40>
+<img style="padding-right:5px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right:5px" src="png/css3.png" alt="CSS3" width=40>
+<img style="padding-right:5px" src="png/bootstrap5.png" alt="bootstrap5" width=57 height=50> <img style="padding-right: 5x" src="png/sass.png" alt="DJANGO" width=60 height="50"> <img style="padding-right:5px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right:5px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right:5px" src="png/java.png" alt="JAVA" width=40>
+
 
 - *HTML*
 - *CSS*
@@ -55,7 +57,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 ### [![CURRENTLY LEARNING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
 - *React js*
 - *ASYNC js*
-- *FIGMA*
+- *Reading Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition)*
 - *Reading Computer problems in python by david kopec*
 - *Solving leetcode problems*
 
