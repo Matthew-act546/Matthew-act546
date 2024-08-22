@@ -56,10 +56,9 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 ### [![CURRENTLY LEARNING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
 - *React js*
-- *ASYNC js*
+- *Learning C++ programming*
 - *Reading Cracking the Coding Interview - 189 Programming Questions and Solutions (6th Edition)*
 - *Reading Computer problems in python by david kopec*
-- *Solving leetcode problems*
 
 ### [![INTERESTING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=🧐+INTERESTED+IN)](https://git.io/typing-svg)
 
