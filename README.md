@@ -76,4 +76,4 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 ### [![SOCIAL MEDIA](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me%3A+)](https://git.io/typing-svg)
 - [Facebook](https://web.facebook.com/Matthew.act546)
 - [Discord](https://discord.com/users/1028176822485139517)
-- Gmail: **matthewyt765@gmail.com**
+- **matthewyt765@gmail.com**
