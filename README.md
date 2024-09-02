@@ -10,7 +10,9 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 <center>
 
 ### [![INFORMATION](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+INFORMATION)](https://git.io/typing-svg)
+
 </center>
+
 **Name:** Matthew David Fernandez <br>
 **Age:** 18 yrs old <br>
 **Birthday:** April 28 2006 <br>
