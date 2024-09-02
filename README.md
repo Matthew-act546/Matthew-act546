@@ -1,17 +1,14 @@
-<center>
+
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Matthew)](https://git.io/typing-svg)
 
-</center>
 
 I'm **a self-taught programmer** since 2020, My goal is to become a **Full Stack Web Developer**. Using **Github**, I going to show you how **consistent** I am in terms of my learning to become a **Full Stack Web Developer**. 
 
 To Track my learnings I'm going to post/commit some projects coding here in my GitHub account.
-<center>
 
 ### [![INFORMATION](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%92%AC+INFORMATION)](https://git.io/typing-svg)
 
-</center>
 
 **Name:** Matthew David Fernandez <br>
 **Age:** 18 yrs old <br>
