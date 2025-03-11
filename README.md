@@ -1,5 +1,3 @@
-
-
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Matthew)](https://git.io/typing-svg)
 
 
@@ -27,7 +25,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 ### [![STATS](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=+%F0%9F%93%88+STATS)](https://git.io/typing-svg)
 [![Matthew GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-act546&hide=issues,contribs&show_icons=true&theme=cobalt)](https://github.com/Matthew-act546/)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=compact)](https://github.com/Matthew-act546/)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&layout=compact)](https://github.com/Matthew-act546/)https://github.com/Matthew-act546/
 ### [![SKILLS](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
 <img style="padding-right:5px" src="png/html5.png" alt="HTML5" width=40> <img style="padding-right:5px" src="png/css3.png" alt="CSS3" width=40>
 <img style="padding-right:5px" src="png/bootstrap5.png" alt="bootstrap5" width=57 height=50> <img style="padding-right: 5x" src="png/sass.png" alt="DJANGO" width=60 height="50"> <img style="padding-right:5px" src="png/javascript.png" alt="JAVASCRIPT" width=40> <img style="padding-right: 10px" src="png/python.png" alt="PYTHON" width=40> <img style="padding-right:5px" src="png/django.png" alt="DJANGO" width=40> <img style="padding-right:5px" src="png/java.png" alt="JAVA" width=40>
@@ -78,3 +76,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - [**Discord**](https://discord.com/users/1028176822485139517)
 - **matthewyt765@gmail.com**
 - [**LinkedIn**](https://www.linkedin.com/in/matthew-david-fernandez-188237298/)
+
+<img src="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/snake.svg" alt="Snake animation" />
+
+###
