@@ -79,7 +79,7 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" alt="Snake animation" />
 </picture>
