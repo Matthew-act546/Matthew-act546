@@ -77,6 +77,6 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
 - **matthewyt765@gmail.com**
 - [**LinkedIn**](https://www.linkedin.com/in/matthew-david-fernandez-188237298/)
 
-<img src="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Matthew-act546/output/snake.svg" alt="Snake animation" />
 
 ###
