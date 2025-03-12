@@ -12,8 +12,13 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 [![wakatime](https://wakatime.com/badge/user/018c6906-0cb1-455a-8d77-e958a564f7aa.svg)](https://wakatime.com/@018c6906-0cb1-455a-8d77-e958a564f7aa)
 
 
+<img src="https://wakatime.com/share/@chewwwy/771a57cf-8876-4f71-b682-3ce1534c5e14.svg">
+</img>
+
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-act546&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Matthew-act546&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ## 🏆 GitHub Trophies
 [![](https://visitcount.itsvg.in/api?id=Matthew-act546&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -35,9 +40,6 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 - *AWS Certification*
 
 
-
-
-
 ### REFERENCES:
 ***Python, Matplotlib, and Django*** - I learned them through reading a book and doing exercises in Python crash course 2nd edition by Eric Matthes and watching some YouTube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
 
@@ -49,5 +51,6 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 ***NC2 CSS(NATIONAL CERTIFICATE 2, COMPUTER SYSTEM SERVICING)*** - I'm the one who picked our school to be a scholar in TESDA to get a NC2 CSS, and I train and am assessed at St. Benadette College of Alabang. Our teacher is Mr. Daryl Daven, and I remember our assessor, Joey M. Moreto, who is such a serious and cold-blooded person. 3 out of 8 students just passed the certificate, and I am the one who passed the assessment. This is my NC2 Certificate [NC2 CSS](certifications/NC.pdf) the ***PASSWORD*** is ***04282006F***
 
 ***SCSS, BOOTSTRAP5, DOM, JSX*** - I watch tutorial videos from net ninja and freecodecamp.org. Lately ive been really focusing on the frontend development i do some projects here and sooner i will post it in here in my github.
+
 
 
