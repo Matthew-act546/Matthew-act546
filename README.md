@@ -83,3 +83,8 @@ To Track my learnings I'm going to post/commit some projects coding here in my G
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" alt="Snake animation" />
 </picture>
+
+<figure>
+    <embed src="https://wakatime.com/share/@chewwwy/771a57cf-8876-4f71-b682-3ce1534c5e14.svg">
+    </embed>
+</figure>
