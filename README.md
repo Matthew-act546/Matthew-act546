@@ -18,8 +18,11 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 <br>
 
 
-## 🔝 repo here
- in construction
+## 🔝 PROJECTS
+1. [HOT POTATO](https://hot-potato-muntinlupa-45nczzctw-matthew-act546s-projects.vercel.app/)
+2. [Portfolio (not final/official)](https://matthew-act546.github.io/Bootstrap5-scss-fullFrontEndWebsite/)
+3. [PLMun Connect](https://matthew-act546.github.io/event-planner-orgs-plmun/
+)
 
 
 ## 🏆 GitHub Trophies
