@@ -12,7 +12,7 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 # 📊 GitHub Stats:
 [![wakatime](https://wakatime.com/badge/user/018c6906-0cb1-455a-8d77-e958a564f7aa.svg)](https://wakatime.com/@018c6906-0cb1-455a-8d77-e958a564f7aa)
 
-<figure><embed src="https://wakatime.com/share/@chewwwy/7f27fb0b-d3ad-44be-b6c9-4d3b28c561b1.svg"></embed></figure>
+<img src="https://wakatime.com/share/@chewwwy/771a57cf-8876-4f71-b682-3ce1534c5e14.svg">
 </img>
 
 <br>
