@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm Matthew David C. Fernandez living in the Philippines. **a self-taught programmer** since 2020, My goal is to become a **Full Stack Web Developer**. Using **Github**, I going to show you how **consistent** I am in terms of my learning to become a **Full Stack Web Developer**. 
+
+<strong>  NOTE! <br> <i>Gonna inactive in March 17 - 23 due to learning in mySql and reviewing mongoDB</i> </strong>
 <br>
 
 
