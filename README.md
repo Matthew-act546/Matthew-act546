@@ -36,7 +36,7 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 ---
 
 ### [![CURRENTLY LEARNING](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31A3F7&background=FFFFFF00&repeat=false&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...)](https://git.io/typing-svg)
-- *PHP*
+- *mySQL*
 - *Laravel*
 - *AWS Certification*
 
