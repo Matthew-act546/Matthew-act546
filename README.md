@@ -41,6 +41,9 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 - *AWS Certification*
 
 
+###
+<details>
+<summary><b>Reference<b></summary>
 ### REFERENCES:
 ***Python, Matplotlib, and Django*** - I learned them through reading a book and doing exercises in Python crash course 2nd edition by Eric Matthes and watching some YouTube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
 
@@ -52,6 +55,8 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 ***NC2 CSS(NATIONAL CERTIFICATE 2, COMPUTER SYSTEM SERVICING)*** - I'm the one who picked our school to be a scholar in TESDA to get a NC2 CSS, and I train and am assessed at St. Benadette College of Alabang. Our teacher is Mr. Daryl Daven, and I remember our assessor, Joey M. Moreto, who is such a serious and cold-blooded person. 3 out of 8 students just passed the certificate, and I am the one who passed the assessment. This is my NC2 Certificate [NC2 CSS](certifications/NC.pdf) the ***PASSWORD*** is ***04282006F***
 
 ***SCSS, BOOTSTRAP5, DOM, JSX*** - I watch tutorial videos from net ninja and freecodecamp.org. Lately ive been really focusing on the frontend development i do some projects here and sooner i will post it in here in my github.
+
+</details>
 
 ## Contributions
 <picture>
