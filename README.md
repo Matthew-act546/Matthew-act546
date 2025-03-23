@@ -40,11 +40,12 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 - *Laravel*
 - *AWS Certification*
 
-
-###
+## REFERENCES
 <details>
-<summary><b>Reference<b></summary>
-### REFERENCES:
+<summary style="font-size: 1.3rem; cursor: pointer"><b>Show Reference</b> <- click it</summary>
+
+<br>
+
 ***Python, Matplotlib, and Django*** - I learned them through reading a book and doing exercises in Python crash course 2nd edition by Eric Matthes and watching some YouTube videos by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) and [Caleb Curry](https://www.youtube.com/@codebreakthrough)
 
 ***JAVA*** - This is our computer programming subject in grade 11 senior high school.
