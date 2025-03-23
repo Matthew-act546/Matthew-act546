@@ -50,7 +50,8 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 
 ***JAVA*** - This is our computer programming subject in grade 11 senior high school.
 
-***HTML5, CSS3, Javascript***- i learn this from an app called learn HTML5, learn CSS3, learn Javascript by codeliber and they give me a certification not a big certification but this is i something i proud of it and i see it big because of this i learn many things through my cellphone and its offline! Im proud because i always going here and always relearning if im bored. A big thanks to codeliber! <3
+***HTML5, CSS3, Javascript***- i learn this from an app called learn HTML5, learn CSS3, learn Javascript by codeliber and they give me a certification not a big certification but this is i something i proud of it and i see it big because of this i learn many things through my cellphone and its offline! Im proud because i always going here and always re-learning if im bored. A big thanks to codeliber! <3
+
 <img src="certifications/HTML.jpg" width="49%" alt="htmlCertification"> <img src="certifications/CSS.jpg" width="49%" alt="cssCertification">
 <img src="certifications/JAVASCRIPT.jpg" width="49%" alt="javascriptCertification">
 
