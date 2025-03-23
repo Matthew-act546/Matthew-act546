@@ -57,6 +57,9 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 
 ***SCSS, BOOTSTRAP5, DOM, JSX*** - I watch tutorial videos from net ninja and freecodecamp.org. Lately ive been really focusing on the frontend development i do some projects here and sooner i will post it in here in my github.
 
+***PHP & MySql***- I watch tutorial videos all from Bro Code. I do php because of 1 our subject need it for backend laravel and the prerequsite of learning laravel is to get to know in mysql database *soon laravel*
+
+
 </details>
 
 ## Contributions
