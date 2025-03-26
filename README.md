@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm Matthew David C. Fernandez living in the Philippines. **a self-taught programmer** since 2020, My goal is to become a **Full Stack Web Developer**. Using **Github**, I going to show you how **consistent** I am in terms of my learning to become a **Full Stack Web Developer**. 
 
-<strong>  NOTE! <br> <i>Gonna inactive in March 17 - 23 due to learning in mySql and reviewing mongoDB</i> </strong>
 <br>
 
 
@@ -65,6 +64,12 @@ I'm Matthew David C. Fernandez living in the Philippines. **a self-taught progra
 </details>
 
 ## Contributions
+#### Wakatime
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@chewwwy/f7b70435-afa0-43d1-971a-932e3504d3a9.png" />
+</a>
+
+#### Github
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-act546/Matthew-act546/output/github-snake.svg" />
