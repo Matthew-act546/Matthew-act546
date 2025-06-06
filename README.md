@@ -2,7 +2,7 @@
 I'm Matthew David C. Fernandez living in the Philippines. **a self-taught programmer** since 2020, My goal is to become a **Full Stack Web Developer**. Using **Github**, I going to show you how **consistent** I am in terms of my learning to become a **Full Stack Web Developer**. 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chewinggummmy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Matthew.act546) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matthewyt765@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-david-fernandez-188237298) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chewinggummmy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Matthew.act546) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:learntocodewithmatthew@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-david-fernandez-188237298) 
 
 
 # 💻 Tech Stack:
